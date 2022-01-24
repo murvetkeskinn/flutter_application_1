@@ -1,16 +1,8 @@
-# flutter_application_1
+Aşağıdaki Adımları İzleyerek Projeyi Çalıştırabilirsiniz.
 
-A new Flutter project.
+1- Api isimli flask ws ngrok aracılığıyle çalıştır ve ngrok sisteminden api linkini al.
 
-## Getting Started
+2-Flutter da yazılan main.dart isimli sayfaya url alanına ngrok dan alınan linki yaz .
 
-This project is a starting point for a Flutter application.
+3-Proje başarılı şekilde çalışacaktır.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
